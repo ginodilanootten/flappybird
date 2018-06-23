@@ -1,0 +1,13 @@
+C:\Users\Gino Dilano Otten\source\repos\flippybird\flippybird\bin\Debug\flippybird.exe.config
+C:\Users\Gino Dilano Otten\source\repos\flippybird\flippybird\bin\Debug\flippybird.exe
+C:\Users\Gino Dilano Otten\source\repos\flippybird\flippybird\bin\Debug\flippybird.pdb
+C:\Users\Gino Dilano Otten\source\repos\flippybird\flippybird\bin\Debug\aa\flippybird.resources.dll
+C:\Users\Gino Dilano Otten\source\repos\flippybird\flippybird\obj\Debug\flippybird.csprojAssemblyReference.cache
+C:\Users\Gino Dilano Otten\source\repos\flippybird\flippybird\obj\Debug\flippybird.Form1.resources
+C:\Users\Gino Dilano Otten\source\repos\flippybird\flippybird\obj\Debug\flippybird.Properties.Resources.resources
+C:\Users\Gino Dilano Otten\source\repos\flippybird\flippybird\obj\Debug\flippybird.Form1.aa.resources
+C:\Users\Gino Dilano Otten\source\repos\flippybird\flippybird\obj\Debug\flippybird.csproj.GenerateResource.cache
+C:\Users\Gino Dilano Otten\source\repos\flippybird\flippybird\obj\Debug\flippybird.csproj.CoreCompileInputs.cache
+C:\Users\Gino Dilano Otten\source\repos\flippybird\flippybird\obj\Debug\aa\flippybird.resources.dll
+C:\Users\Gino Dilano Otten\source\repos\flippybird\flippybird\obj\Debug\flippybird.exe
+C:\Users\Gino Dilano Otten\source\repos\flippybird\flippybird\obj\Debug\flippybird.pdb
